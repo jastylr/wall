@@ -1,0 +1,31 @@
+
+body {
+	font-family: Arial, helvetica, sans-serif;
+}
+
+#container {
+	width: 800px;
+	margin:0 auto;
+}
+
+#login, #registration {
+	display: inline-block;
+	vertical-align: top;
+	width: 48%;
+}
+
+ul {
+	list-style-type: none;
+}
+
+label, input {
+	display: block;
+}
+
+textarea {
+	width: 100%;
+}
+
+li textarea {
+	width: 80%;
+}
